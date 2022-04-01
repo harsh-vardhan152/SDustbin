@@ -1,1 +1,2 @@
-# SDustbin
+# Smart-Dustbin
+Major Project
